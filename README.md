@@ -8,5 +8,20 @@ Performing analysis on Kickstarter data to uncover trends
 ### Analysis of Outcomes Based on Goals
 ### Challenges and Difficulties Encountered
 ## Results
+---
+Two conclusions that I drew from the Outcomes based on Launch Date
+are
+-   The most successful campaigns were launched in May and June i.e late Spring
+-  The number of cancellation was relatively low throughout the year.
+---
+Conclusion that I drew from the Outcomes based on Goals chart
+The most successful campaigns were those which had the least goal targets and the campaigns that failed the most had greater goal target amounts.
+---
+Some limitations of this dataset are
+-   It does not take into account the interests of the people making he donations. So we don’t know if they love music lovers or games lovers etc. 
+-  The percentage Funded column has just one value of 0 throughout the whole table. That does not give us any useful information.
+---
+A possible graph that we could create is a graph that shows how the duration of each Crowdfunding campaign can affect the total amount pledged and donated for each campaign. 
+You can subtract the Date Ended field from the Date started field to show you how long each campaign lasted. With this information, we can plot the graph to see if the duration of a Crowdfunding campaign can have any impact on the donations.
 
 ![image_name](D:\Analysis Projects\chart)
