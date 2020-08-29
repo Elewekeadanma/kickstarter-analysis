@@ -32,4 +32,4 @@ Some limitations of this dataset are
 A possible graph that we could create is a graph that shows how the duration of each Crowdfunding campaign can affect the total amount pledged and donated for each campaign. 
 You can subtract the Date Ended field from the Date started field to show you how long each campaign lasted. With this information, we can plot the graph to see if the duration of a Crowdfunding campaign can have any impact on the donations.
 
-![image_name](D:\Analysis Projects\chart)
+![image_name](https://github.com/Elewekeadanma/kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.png)
