@@ -11,25 +11,19 @@ A challenge I faced was when I was creating the Outcome based on Launch Date piv
 
 ![Theater_Outcomes_vs_Launch:](D:Analysis Projects/Resources/Theater_Outcomes_vs_Launch.png)
 
-Two conclusions that I drew from the Outcomes based on Launch Date
-are
--   The most successful campaigns were launched in May and June i.e late Spring
--  The number of cancellation was relatively low throughout the year(resources/Theater_Outcomes_vs_Launch.png)
-Two conclusions that I drew from the Outcomes based on Launch Date
-are
--   The most successful campaigns were launched in May and June i.e late Spring
--  The number of cancellation was relatively low throughout the year.
+
 ### Analysis of Outcomes Based on Goals
 The most successful campaigns were those which had the least goal targets and the campaigns that failed the most had greater goal target amounts.
 ### Challenges and Difficulties Encountered
 ## Results
 ---
-Two conclusions that I drew from the Outcomes based on Launch Date
-are
+Two conclusions that I drew from the Outcomes based on Launch Date are
 -   The most successful campaigns were launched in May and June i.e late Spring
 -  The number of cancellation was relatively low throughout the year.
 ---
-The most successful campaigns were those which had the least goal targets and the campaigns that failed the most had greater goal target amounts.
+A conclusion that I drew from the Outcomes based on Goals chart is
+The most successful campaigns were those which had the least goal targets and the campaigns that failed the most had very high amounts as their goal targets.
+
 ---
 Some limitations of this dataset are
 -   It does not take into account the interests of the people making the donations. So we don’t know if they are music lovers, games lovers etc. 
