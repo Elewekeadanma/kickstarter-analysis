@@ -9,7 +9,7 @@ A challenge I faced was when I was creating the Outcome based on Launch Date piv
 ### Analysis of Outcomes Based on Launch Date
 
 
-![Theater_Outcomes_vs_Launch:](D:Analysis Projects/Resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch:](https://github.com/Elewekeadanma/kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
 
 
 ### Analysis of Outcomes Based on Goals
