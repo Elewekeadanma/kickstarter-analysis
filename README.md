@@ -9,7 +9,7 @@ A challenge I faced was when I was creating the Outcome based on Launch Date piv
 ### Analysis of Outcomes Based on Launch Date
 
 
-![Theater Outcomes vs Launch:](D:Aanlysis Projects/resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch:](D:Analysis Projects/resources/Theater_Outcomes_vs_Launch.png)
 
 Two conclusions that I drew from the Outcomes based on Launch Date
 are
